@@ -264,8 +264,8 @@ This project is licensed under the CWT License.
   <h3>🚀 Ready to start your Web3 journey?</h3>
   <p>Star this repo, follow the tutorial, and join thousands of developers building the future of the web!</p>
   
-  [![Star this repo](https://img.shields.io/github/stars/codewithty/wagmi-tutorial?style=social)](https://github.com/codewithty/wagmi-tutorial)
-  [![Follow @codewithty](https://img.shields.io/twitter/follow/codewithty?style=social)](https://twitter.com/codewithty)
+ 
+  [![Follow @codewithty](https://img.shields.io/twitter/follow/codewithty?style=social)](https://twitter.com/codewithty_)
 </div>
 
 ---
